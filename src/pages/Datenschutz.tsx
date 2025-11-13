@@ -309,7 +309,7 @@ const Datenschutz = () => {
             <div className="absolute bottom-0 right-0 w-6 h-6 border-b-2 border-r-2 border-red-500/50"></div>
 
             <h3 className="text-2xl font-bold mb-4 text-purple-500 drop-shadow-[0_0_15px_rgba(255,255,255,0.8)]">
-              <span className="text-gray-800">Bei Fragen zum</span> <span className="text-red-600">Datenschutz</span>
+              <span className="text-red-600">Bei Fragen zum Datenschutz</span>
             </h3>
             <p className="text-gray-300 mb-6 drop-shadow-[0_0_5px_rgba(255,255,255,0.1)]">
               Wir verarbeiten deine Daten vertraulich und im Einklang mit dem revidierten Schweizer Datenschutzgesetz (revDSG).
